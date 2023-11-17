@@ -2,7 +2,7 @@
 
 <details>
     <summary>
-        ## 👀 I’m learned ...
+        👀 I’m learned ...
     </summary>
     <br>
 
